@@ -1,0 +1,2 @@
+- 👋 Hi, I’m SIM4
+- 👀 I’m interested in technology
