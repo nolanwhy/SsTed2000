@@ -1,2 +1,2 @@
-- 👋 Hi, I’m SIM4
+- 👋 Hi, I’m SIM4 (old nickname now am using my real name (nolan))
 - 👀 I’m interested in technology
