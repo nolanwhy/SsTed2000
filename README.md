@@ -1,1 +1,1 @@
-<img src="https://img.freepik.com/free-photo/black-monstera-leaves-background-wallpaper_53876-102420.jpg?w=2000">
+Current owner of GoodRooms! <img src="http://goodrooms.cf/img/GR.png" width="15" height="15">
