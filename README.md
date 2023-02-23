@@ -1,2 +1,2 @@
 # Hello World
-<img src="https://github-readme-stats.vercel.app/api?username=nolanwhy">
+<img src="https://github-readme-stats.vercel.app/api?username=nolanwhy&theme=dark">
